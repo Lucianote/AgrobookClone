@@ -1,0 +1,13 @@
+.Menuheader{
+    font-size: large;
+    color: white;
+    text-align: center;
+}
+body{
+    background-color: rgb(37, 179, 72);
+}
+
+.lnk{
+    color: white;
+    font-size: larger;
+}

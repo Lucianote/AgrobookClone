@@ -1,0 +1,81 @@
+input[type="text"],
+input[type="password"] {
+    height: 25px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.title{
+    color: #fff;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 400;
+}
+
+.header{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 70px;
+    font-weight: 800;
+    letter-spacing: -5px;
+    color: #fff;
+}
+
+input[type="submit"] {
+    margin-top: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    background: #c7c7c7;
+    border: 1px solid #c7c7c7; 
+    color: #fff;
+    padding: 10px 30px;
+    
+}
+
+input[type="submit"]:hover{
+    background: #699c62;
+}
+
+.button-container{
+    display: flex;
+    width: 1823px;
+    justify-content: center;
+}
+.lbl1{
+    font-size: 24px;
+    color: white;
+}
+
+.lbl2{
+    color: white;
+}
+
+.login-form{
+    padding: 2rem;
+
+}
+
+.list-container {
+    display: flex;
+}
+
+.error {
+    color: red;
+    font-size: 15px;
+}
+
+.title {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.input-container{
+    
+    gap: 8px;
+    margin: 10px;
+}
+
+.login-form{
+    margin-top: 160px;
+    text-align: center;
+    align-items: center;
+}

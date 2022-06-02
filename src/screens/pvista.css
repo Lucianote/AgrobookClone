@@ -1,0 +1,49 @@
+.divTD1{
+color: whitesmoke;
+align-content: center;
+display: flex;
+justify-content: center;
+font-size: larger;
+}
+
+
+.Tabla{
+    border: black 5px outset;
+    background-color: rgb(65, 55, 55);
+    opacity: 0.8;
+    width: fit-content;
+    justify-content: center;
+    display: table-cell;
+    color: white;
+    text-align: center;
+    font-size: large;
+    position: absolute;
+    left: 50%;
+    margin-left: -300px;
+    top: 50%;
+    margin-top: -400px;
+
+}
+
+.header{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    font-style: normal;
+  
+
+}
+
+.divS{
+    position: absolute
+}
+
+.lnkS{
+    height: 80px;
+    bottom: 10%;
+    color: white;
+    position: fixed;
+    margin-left: 867px;
+    
+
+}

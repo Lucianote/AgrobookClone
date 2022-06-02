@@ -1,0 +1,37 @@
+
+    
+    
+    .Tabla{
+        border: black 5px outset;
+        background-color: rgb(65, 55, 55);
+        opacity: 0.8;
+        
+    
+    }
+
+    .header{
+        font-size: 50px;
+        color: white;
+        text-align: center;
+        font-style: normal;
+      
+    
+    }
+    
+    .divS{
+        position: absolute
+    }
+    
+    .lnkS{
+        height: 80px;
+        bottom: 10%;
+        color: white;
+        position: fixed;
+        
+    
+    }
+
+    .divTabla{
+        color: aqua;
+    }
+    
